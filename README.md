@@ -29,8 +29,6 @@ Para atender a demanda do projeto usei o C# (Windows Forms) em conjunto com SQL 
 ## Implantação em produção
 - Banco de dados: SQL Server
 
-# Como executar o projeto
-
 
 # Autor
 
