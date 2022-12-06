@@ -1,0 +1,13 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\bin\Debug\prjEverymind.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\bin\Debug\prjEverymind.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\bin\Debug\prjEverymind.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.Apresentacao.bemVindo.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.Apresentacao.Cadastro.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.Form1.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Projeto do C Sharpe\prjEverymind\prjEverymind\obj\Debug\prjEverymind.pdb
