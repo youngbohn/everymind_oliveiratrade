@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 Essa estrutura de Sign in e Sign up de usuários foi desenvolvida com o objetivo de participar do processo seletivo do programa Best Minds para pessoas desenvolvedoras, ofertado pela [Everymind](https://www.everymind.com.br/ "Site da Everymind").
-
+Para atender a demanda do projeto usei o C# (Windows Forms) em conjunto com SQL Server, foi um sistema muito básico de login e senha arquitetado com o método three-layer (UI/Presentation, Business Logic e Data Access).
 
 ## Layout Front End
 ![Tela de Login](https://github.com/youngbohn/everymind_oliveiratrade/blob/master/assets/asset_login.png) ![Tela de Cadastro](https://github.com/youngbohn/everymind_oliveiratrade/blob/master/assets/asset_cadastro.png)
@@ -18,12 +18,12 @@ Essa estrutura de Sign in e Sign up de usuários foi desenvolvida com o objetivo
 ![Login não encontrado](https://github.com/youngbohn/everymind_oliveiratrade/blob/master/assets/asset_erro.png)
 
 ![Senha não coincide](https://github.com/youngbohn/everymind_oliveiratrade/blob/master/assets/asset_senhaNaoCoincide.png)
-# Tecnologia utilizadas
+# Tecnologias utilizadas
 ## Back end
 - C#
 
 ## Front end
-- Somente o C# com Windows Forms
+- C# (Windows Forms)
 
 ## Implantação em produção
 - Banco de dados: SQL Server
